@@ -1,3 +1,3 @@
 ---
-title: Canonical (Straight Through) Bible Plan
+title: "Canonical (Straight Through) Bible Plan"
 ---
