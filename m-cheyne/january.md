@@ -11,7 +11,7 @@ Genesis 5 Matthew 5 5 Ezra 5 Acts 5
 Genesis 6 Matthew 6 6 Ezra 6 Acts 6
 Genesis 7 Matthew 7 7 Ezra 7 Acts 7
 Genesis 8 Matthew 8 8 Ezra 8 Acts 8
-Genesis 9 , 10 Matthew 9 9 Ezra 9 Acts 9
+Genesis 9,10 Matthew 9 9 Ezra 9 Acts 9
 Genesis 11 Matthew 10 10 Ezra 10 Acts 10
 Genesis 12 Matthew 11 11 Nehemiah 1 Acts 11
 Genesis 13 Matthew 12 12 Nehemiah 2 Acts 12

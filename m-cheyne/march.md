@@ -33,4 +33,4 @@ Exodus 38 John 17 27 Proverbs 14 Philippians 1
 Exodus 39 John 18 28 Proverbs 15 Philippians 2
 Exodus 40 John 19 29 Proverbs 16 Philippians 3
 Leviticus 1 John 20 30 Proverbs 17 Philippians 4
-Leviticus 2 , 3 John 21 31 Proverbs 18 Colossians 1
+Leviticus 2,3 John 21 31 Proverbs 18 Colossians 1
