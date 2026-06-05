@@ -3,7 +3,7 @@ title: "November"
 weight: 11
 ---
 
-2 Kings 14 2 Timothy 4 1 Hosea 7 Psalms 120,121,122
+2 Kings 14 2-Timothy 4 1 Hosea 7 Psalms 120,121,122
 2 Kings 15 Titus 1 2 Hosea 8 Psalms 123,124,125
 2 Kings 16 Titus 2 3 Hosea 9 Psalms 126,127,128
 2 Kings 17 Titus 3 4 Hosea 10 Psalms 129,130,131
@@ -26,10 +26,10 @@ weight: 11
 1 Chronicles 16 James 3 21 Obadiah 1 Luke 5
 1 Chronicles 17 James 4 22 Jonah 1 Luke 6
 1 Chronicles 18 James 5 23 Jonah 2 Luke 7
-1 Chronicles 19,20 1 Peter 1 24 Jonah 3 Luke 8
-1 Chronicles 21 1 Peter 2 25 Jonah 4 Luke 9
-1 Chronicles 22 1 Peter 3 26 Micah 1 Luke 10
-1 Chronicles 23 1 Peter 4 27 Micah 2 Luke 11
-1 Chronicles 24,25 1 Peter 5 28 Micah 3 Luke 12
-1 Chronicles 26,27 2 Peter 1 29 Micah 4 Luke 13
-1 Chronicles 28 2 Peter 2 30 Micah 5 Luke 14
+1 Chronicles 19,20 1-Peter 1 24 Jonah 3 Luke 8
+1 Chronicles 21 1-Peter 2 25 Jonah 4 Luke 9
+1 Chronicles 22 1-Peter 3 26 Micah 1 Luke 10
+1 Chronicles 23 1-Peter 4 27 Micah 2 Luke 11
+1 Chronicles 24,25 1-Peter 5 28 Micah 3 Luke 12
+1 Chronicles 26,27 2-Peter 1 29 Micah 4 Luke 13
+1 Chronicles 28 2-Peter 2 30 Micah 5 Luke 14

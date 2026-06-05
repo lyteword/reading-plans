@@ -3,20 +3,20 @@ title: "March"
 weight: 3
 ---
 
-Exodus 12:22-51 Luke 15 1 Job 30 1 Corinthians 16
-Exodus 13 Luke 16 2 Job 31 2 Corinthians 1
-Exodus 14 Luke 17 3 Job 32 2 Corinthians 2
-Exodus 15 Luke 18 4 Job 33 2 Corinthians 3
-Exodus 16 Luke 19 5 Job 34 2 Corinthians 4
-Exodus 17 Luke 20 6 Job 35 2 Corinthians 1
-Exodus 18 Luke 21 7 Job 36 2 Corinthians 6
-Exodus 19 Luke 22 8 Job 37 2 Corinthians 7
-Exodus 20 Luke 23 9 Job 38 2 Corinthians 8
-Exodus 21 Luke 24 10 Job 39 2 Corinthians 9
-Exodus 22 John 1 11 Job 40 2 Corinthians 10
-Exodus 23 John 2 12 Job 41 2 Corinthians 11
-Exodus 24 John 3 13 Job 42 2 Corinthians 12
-Exodus 25 John 4 14 Proverbs 1 2 Corinthians 13
+Exodus 12:22-51 Luke 15 1 Job 30 1-Corinthians 16
+Exodus 13 Luke 16 2 Job 31 2-Corinthians 1
+Exodus 14 Luke 17 3 Job 32 2-Corinthians 2
+Exodus 15 Luke 18 4 Job 33 2-Corinthians 3
+Exodus 16 Luke 19 5 Job 34 2-Corinthians 4
+Exodus 17 Luke 20 6 Job 35 2-Corinthians 1
+Exodus 18 Luke 21 7 Job 36 2-Corinthians 6
+Exodus 19 Luke 22 8 Job 37 2-Corinthians 7
+Exodus 20 Luke 23 9 Job 38 2-Corinthians 8
+Exodus 21 Luke 24 10 Job 39 2-Corinthians 9
+Exodus 22 John 1 11 Job 40 2-Corinthians 10
+Exodus 23 John 2 12 Job 41 2-Corinthians 11
+Exodus 24 John 3 13 Job 42 2-Corinthians 12
+Exodus 25 John 4 14 Proverbs 1 2-Corinthians 13
 Exodus 26 John 5 15 Proverbs 2 Galatians 1
 Exodus 27 John 6 16 Proverbs 3 Galatians 2
 Exodus 28 John 7 17 Proverbs 4 Galatians 3
