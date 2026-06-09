@@ -5,6 +5,8 @@ weight: 3
 
 # March
 
+In the month of March, the M'Cheyne schedule guides you through the latter chapters of Exodus and the beginning of Leviticus, paired with the Gospel of John, the end of Job, the start of Proverbs, and the Epistles of 2 Corinthians, Galatians, Ephesians, Philippians, and Colossians. Use the morning readings for study and the evening readings for reflection.
+
 | Day | Family Morning | Family Evening | Private Morning | Private Evening |
 |---|---|---|---|---|
 | 1 | [Exodus 12:22-51](/bible/bsb/exodus/chapter-12/) | [Luke 15](/bible/bsb/luke/chapter-15/) | [Job 30](/bible/bsb/job/chapter-30/) | [1-Corinthians 16](/bible/bsb/1-corinthians/chapter-16/) |

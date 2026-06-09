@@ -11,9 +11,7 @@ weight: 4
 
 # April
 
-In the month of April, the M'Cheyne schedule guides you through the latter chapters of Leviticus and Numbers, 
-paired with the Wisdom literature of Proverbs and Ecclesiastes. Use the morning readings for study and the 
-evening readings for reflection.
+In the month of April, the M'Cheyne schedule guides you through the latter chapters of Leviticus and Numbers, paired with the Wisdom literature of Proverbs and Ecclesiastes. Use the morning readings for study and the evening readings for reflection.
 
 | Day | Family Morning | Family Evening | Private Morning | Private Evening |
 |---|---|---|---|---|

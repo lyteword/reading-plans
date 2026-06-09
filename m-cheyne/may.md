@@ -5,6 +5,8 @@ weight: 5
 
 # May
 
+In the month of May, the M'Cheyne schedule guides you through the latter chapters of Numbers and the beginning of Deuteronomy, paired with a selection of Psalms, the end of Song of Solomon, the start of Isaiah, and the General Epistles from Hebrews to Jude. Use the morning readings for study and the evening readings for reflection.
+
 | Day | Family Morning | Family Evening | Private Morning | Private Evening |
 |---|---|---|---|---|
 | 1 | [Numbers 8](/bible/bsb/numbers/chapter-8/) | [Psalms 44](/bible/bsb/psalms/chapter-44/) | [Song 6](/bible/bsb/song-of-solomon/chapter-6/) | [Hebrews 6](/bible/bsb/hebrews/chapter-6/) |

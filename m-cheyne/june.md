@@ -5,6 +5,8 @@ weight: 6
 
 # June
 
+In the month of June, the M'Cheyne schedule guides you through the completion of Deuteronomy and the start of Joshua, paired with a collection of Psalms, the continued study of Isaiah, the conclusion of Revelation, and the beginning of the Gospel of Matthew. Use the morning readings for study and the evening readings for reflection.
+
 | Day | Family Morning | Family Evening | Private Morning | Private Evening |
 |---|---|---|---|---|
 | 1 | [Deuteronomy 5](/bible/bsb/deuteronomy/chapter-5/) | [Psalms 88](/bible/bsb/psalms/chapter-88/) | [Isaiah 33](/bible/bsb/isaiah/chapter-33/) | [Revelation 3](/bible/bsb/revelation/chapter-3/) |

@@ -5,6 +5,8 @@ weight: 9
 
 # September
 
+In the month of September, the M'Cheyne schedule guides you through the latter part of 1 Samuel, the entirety of 2 Samuel, and the beginning of 1 Kings, paired with the Epistles of 1 Corinthians, 2 Corinthians, and Galatians, as well as Ezekiel and various Psalms. Use the morning readings for study and the evening readings for reflection.
+
 | Day | Family Morning | Family Evening | Private Morning | Private Evening |
 |---|---|---|---|---|
 | 1 | [1-Samuel 25](/bible/bsb/1-samuel/chapter-25/) | [1-Corinthians 6](/bible/bsb/1-corinthians/chapter-6/) | [Ezekiel 4](/bible/bsb/ezekiel/chapter-4/) | [Psalms 40](/bible/bsb/psalms/chapter-40/), [Psalms 41](/bible/bsb/psalms/chapter-41/) |

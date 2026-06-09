@@ -5,6 +5,8 @@ weight: 11
 
 # November
 
+In the month of November, the M'Cheyne schedule guides you through the end of 2 Kings and the majority of 1 Chronicles, paired with the Epistles of Titus, Philemon, Hebrews, James, and Peter, the Minor Prophets from Hosea to Micah, the conclusion of the Psalms, and the start of the Gospel of Luke. Use the morning readings for study and the evening readings for reflection.
+
 | Day | Family Morning | Family Evening | Private Morning | Private Evening |
 |---|---|---|---|---|
 | 1 | [2-Kings 14](/bible/bsb/2-kings/chapter-14/) | [2-Timothy 4](/bible/bsb/2-timothy/chapter-4/) | [Hosea 7](/bible/bsb/hosea/chapter-7/) | [Psalms 120](/bible/bsb/psalms/chapter-120/), [Psalms 121](/bible/bsb/psalms/chapter-121/), [Psalms 122](/bible/bsb/psalms/chapter-122/) |

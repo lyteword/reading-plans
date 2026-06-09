@@ -11,9 +11,7 @@ weight: 8
 
 # August
 
-In the month of August, the M'Cheyne schedule guides you through the latter chapters of Jeremiah and Judges,
-paired with Ruth, Romans, Lamentations and the first book of Samuel. Use the morning readings for study and the
-evening readings for reflection.
+In the month of August, the M'Cheyne schedule guides you through the latter chapters of Jeremiah and Judges, paired with Ruth, Romans, Lamentations and the first book of Samuel. Use the morning readings for study and the evening readings for reflection.
 
 | Day | Family Morning | Family Evening | Private Morning | Private Evening |
 |---|---|---|---|---|

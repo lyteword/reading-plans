@@ -5,6 +5,8 @@ weight: 10
 
 # October
 
+In the month of October, the M'Cheyne schedule guides you through the completion of 1 Kings and the beginning of 2 Kings, paired with the Epistles to the Ephesians, Philippians, Colossians, Thessalonians, and Timothy, along with the end of Ezekiel, the book of Daniel, the start of Hosea, and various Psalms. Use the morning readings for study and the evening readings for reflection.
+
 | Day | Family Morning | Family Evening | Private Morning | Private Evening |
 |---|---|---|---|---|
 | 1 | [1-Kings 3](/bible/bsb/1-kings/chapter-3/) | [Ephesians 1](/bible/bsb/ephesians/chapter-1/) | [Ezekiel 34](/bible/bsb/ezekiel/chapter-34/) | [Psalms 83](/bible/bsb/psalms/chapter-83/), [Psalms 84](/bible/bsb/psalms/chapter-84/) |

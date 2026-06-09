@@ -11,10 +11,7 @@ weight: 2
 
 # February
 
-In the month of February, the M'Cheyne schedule guides you through the latter chapters of Genesis and Esther,
-paired with the Exodus, the Gospel of Mark, the first letter to the Corinthians, and Job. Use the morning readings for study and the
-evening readings for reflection.
-
+In the month of February, the M'Cheyne schedule guides you through the latter chapters of Genesis and Esther, paired with the Exodus, the Gospel of Mark, the first letter to the Corinthians, and Job. Use the morning readings for study and the evening readings for reflection.
 
 | Day | Family Morning | Family Evening | Private Morning | Private Evening |
 |---|---|---|---|---|
