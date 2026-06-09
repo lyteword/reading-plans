@@ -1,4 +1,14 @@
-# June Reading Plan
+---
+title: "June Canonical Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "June"
+description: >
+  Stay consistent with your faith using the canonical Bible reading plan for the month of June, featuring Proverbs, and Psalms.
+weight: 6
+---
+
+# June
+
+In the month of June, the canonical reading plan guides you through Proverbs, and Psalms. Use these readings for your daily scripture study and reflection.
 
 | Day | Reading |
 | :--- | :--- |

@@ -1,4 +1,14 @@
-# March Reading Plan
+---
+title: "March Canonical Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "March"
+description: >
+  Stay consistent with your faith using the canonical Bible reading plan for the month of March, featuring 1 Kings, 1 Samuel, 2 Samuel, Deuteronomy, Joshua, Judges, and Ruth.
+weight: 3
+---
+
+# March
+
+In the month of March, the canonical reading plan guides you through 1 Kings, 1 Samuel, 2 Samuel, Deuteronomy, Joshua, Judges, and Ruth. Use these readings for your daily scripture study and reflection.
 
 | Day | Reading |
 | :--- | :--- |

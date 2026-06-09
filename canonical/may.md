@@ -1,4 +1,14 @@
-# May Reading Plan
+---
+title: "May Canonical Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "May"
+description: >
+  Stay consistent with your faith using the canonical Bible reading plan for the month of May, featuring Esther, Job, Nehemiah, and Psalms.
+weight: 5
+---
+
+# May
+
+In the month of May, the canonical reading plan guides you through Esther, Job, Nehemiah, and Psalms. Use these readings for your daily scripture study and reflection.
 
 | Day | Reading |
 | :--- | :--- |
