@@ -1,4 +1,14 @@
-# February Reading Plan
+---
+title: "February Canonical Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "February"
+description: >
+  Stay consistent with your faith using the canonical Bible reading plan for the month of February, featuring Deuteronomy, Leviticus, and Numbers.
+weight: 2
+---
+
+# February
+
+In the month of February, the canonical reading plan guides you through Deuteronomy, Leviticus, and Numbers. Use these readings for your daily scripture study and reflection.
 
 | Day | Reading |
 | :--- | :--- |

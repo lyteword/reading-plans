@@ -1,5 +1,14 @@
-# January Reading Plan
+---
+title: "January Canonical Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "January"
+description: >
+  Stay consistent with your faith using the canonical Bible reading plan for the month of January, featuring Exodus, Genesis, and Leviticus.
+weight: 1
+---
 
+# January
+
+In the month of January, the canonical reading plan guides you through Exodus, Genesis, and Leviticus. Use these readings for your daily scripture study and reflection.
 | Day | Reading |
 | :--- | :--- |
 | 1 | [Genesis 1](/bible/bsb/genesis/chapter-1/), [Genesis 2](/bible/bsb/genesis/chapter-2/), [Genesis 3](/bible/bsb/genesis/chapter-3/) |

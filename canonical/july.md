@@ -1,4 +1,14 @@
-# July Reading Plan
+---
+title: "July Canonical Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "July"
+description: >
+  Stay consistent with your faith using the canonical Bible reading plan for the month of July, featuring Ecclesiastes, Isaiah, Proverbs, and Song of Solomon.
+weight: 7
+---
+
+# July
+
+In the month of July, the canonical reading plan guides you through Ecclesiastes, Isaiah, Proverbs, and Song of Solomon. Use these readings for your daily scripture study and reflection.
 
 | Day | Reading |
 | :--- | :--- |
