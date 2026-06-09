@@ -1,5 +1,11 @@
 ---
-title: "May"
+title: "May M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "May"
+description: >
+  Stay consistent with your faith using the M'Cheyne Bible reading plan for the month of May.
+  Our daily online schedule provides structured scripture readings for morning and evening,
+  including a selection of Psalms, the end of Song of Solomon, the start of Isaiah, and the General Epistles from Hebrews to Jude, following Robert Murray M'Cheyne's
+  famous one-year plan.
 weight: 5
 ---
 

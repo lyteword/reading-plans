@@ -1,5 +1,11 @@
 ---
-title: "September"
+title: "September M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "September"
+description: >
+  Stay consistent with your faith using the M'Cheyne Bible reading plan for the month of September.
+  Our daily online schedule provides structured scripture readings for morning and evening,
+  including the Epistles of 1 Corinthians, 2 Corinthians, and Galatians, as well as Ezekiel and various Psalms, following Robert Murray M'Cheyne's
+  famous one-year plan.
 weight: 9
 ---
 

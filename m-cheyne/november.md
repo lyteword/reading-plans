@@ -1,5 +1,11 @@
 ---
-title: "November"
+title: "November M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "November"
+description: >
+  Stay consistent with your faith using the M'Cheyne Bible reading plan for the month of November.
+  Our daily online schedule provides structured scripture readings for morning and evening,
+  including the Epistles of Titus, Philemon, Hebrews, James, and Peter, the Minor Prophets from Hosea to Micah, the conclusion of the Psalms, and the start of the Gospel of Luke, following Robert Murray M'Cheyne's
+  famous one-year plan.
 weight: 11
 ---
 

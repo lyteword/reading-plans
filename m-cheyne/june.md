@@ -1,5 +1,11 @@
 ---
-title: "June"
+title: "June M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "June"
+description: >
+  Stay consistent with your faith using the M'Cheyne Bible reading plan for the month of June.
+  Our daily online schedule provides structured scripture readings for morning and evening,
+  including a collection of Psalms, the continued study of Isaiah, the conclusion of Revelation, and the beginning of the Gospel of Matthew, following Robert Murray M'Cheyne's
+  famous one-year plan.
 weight: 6
 ---
 

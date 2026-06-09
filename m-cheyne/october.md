@@ -1,5 +1,11 @@
 ---
-title: "October"
+title: "October M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "October"
+description: >
+  Stay consistent with your faith using the M'Cheyne Bible reading plan for the month of October.
+  Our daily online schedule provides structured scripture readings for morning and evening,
+  including the Epistles to the Ephesians, Philippians, Colossians, Thessalonians, and Timothy, along with the end of Ezekiel, the book of Daniel, the start of Hosea, and various Psalms, following Robert Murray M'Cheyne's
+  famous one-year plan.
 weight: 10
 ---
 

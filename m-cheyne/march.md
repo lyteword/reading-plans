@@ -1,5 +1,11 @@
 ---
-title: "March"
+title: "March M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "March"
+description: >
+  Stay consistent with your faith using the M'Cheyne Bible reading plan for the month of March.
+  Our daily online schedule provides structured scripture readings for morning and evening,
+  including the Gospel of John, the end of Job, the start of Proverbs, and the Epistles of 2 Corinthians, Galatians, Ephesians, Philippians, and Colossians, following Robert Murray M'Cheyne's
+  famous one-year plan.
 weight: 3
 ---
 
