@@ -1,4 +1,14 @@
-# October Reading Plan
+---
+title: "October Canonical Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "October"
+description: >
+  Stay consistent with your faith using the canonical Bible reading plan for the month of October, featuring John, Luke, Malachi, Mark, Matthew, and Zechariah.
+weight: 10
+---
+
+# October
+
+In the month of October, the canonical reading plan guides you through John, Luke, Malachi, Mark, Matthew, and Zechariah. Use these readings for your daily scripture study and reflection.
 
 | Day | Reading |
 | :--- | :--- |

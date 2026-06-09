@@ -1,4 +1,14 @@
-# September Reading Plan
+---
+title: "September Canonical Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "September"
+description: >
+  Stay consistent with your faith using the canonical Bible reading plan for the month of September, featuring Amos, Daniel, Ezekiel, Habakkuk, Haggai, Hosea, Joel, Jonah, Micah, Nahum, Obadiah, and Zephaniah.
+weight: 9
+---
+
+# September
+
+In the month of September, the canonical reading plan guides you through Amos, Daniel, Ezekiel, Habakkuk, Haggai, Hosea, Joel, Jonah, Micah, Nahum, Obadiah, and Zephaniah. Use these readings for your daily scripture study and reflection.
 
 | Day | Reading |
 | :--- | :--- |

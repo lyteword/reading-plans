@@ -1,4 +1,14 @@
-# November Reading Plan
+---
+title: "November Canonical Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "November"
+description: >
+  Stay consistent with your faith using the canonical Bible reading plan for the month of November, featuring 1 Corinthians, 2 Corinthians, Acts, Galatians, John, and Romans.
+weight: 11
+---
+
+# November
+
+In the month of November, the canonical reading plan guides you through 1 Corinthians, 2 Corinthians, Acts, Galatians, John, and Romans. Use these readings for your daily scripture study and reflection.
 
 | Day | Reading |
 | :--- | :--- |
