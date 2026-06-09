@@ -1,4 +1,14 @@
-# December Reading Plan
+---
+title: "December Canonical Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "December"
+description: >
+  Stay consistent with your faith using the canonical Bible reading plan for the month of December, featuring 1 John, 1 Peter, 1 Thessalonians, 1 Timothy, 2 John, 2 Peter, 2 Thessalonians, 2 Timothy, 3 John, Colossians, Ephesians, Hebrews, James, Jude, Philemon, Philippians, Revelation, and Titus.
+weight: 12
+---
+
+# December
+
+In the month of December, the canonical reading plan guides you through 1 John, 1 Peter, 1 Thessalonians, 1 Timothy, 2 John, 2 Peter, 2 Thessalonians, 2 Timothy, 3 John, Colossians, Ephesians, Hebrews, James, Jude, Philemon, Philippians, Revelation, and Titus. Use these readings for your daily scripture study and reflection.
 
 | Day | Reading |
 | :--- | :--- |

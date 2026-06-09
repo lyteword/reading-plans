@@ -1,4 +1,14 @@
-# August Reading Plan
+---
+title: "August Canonical Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "August"
+description: >
+  Stay consistent with your faith using the canonical Bible reading plan for the month of August, featuring Ezekiel, Isaiah, Jeremiah, and Lamentations.
+weight: 8
+---
+
+# August
+
+In the month of August, the canonical reading plan guides you through Ezekiel, Isaiah, Jeremiah, and Lamentations. Use these readings for your daily scripture study and reflection.
 
 | Day | Reading |
 | :--- | :--- |

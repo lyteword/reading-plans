@@ -1,4 +1,14 @@
-# April Reading Plan
+---
+title: "April Canonical Bible Reading Plan | Daily Scripture Schedule"
+linkTitle: "April"
+description: >
+  Stay consistent with your faith using the canonical Bible reading plan for the month of April, featuring 1 Chronicles, 1 Kings, 2 Chronicles, 2 Kings, Ezra, and Nehemiah.
+weight: 4
+---
+
+# April
+
+In the month of April, the canonical reading plan guides you through 1 Chronicles, 1 Kings, 2 Chronicles, 2 Kings, Ezra, and Nehemiah. Use these readings for your daily scripture study and reflection.
 
 | Day | Reading |
 | :--- | :--- |
