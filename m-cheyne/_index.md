@@ -5,7 +5,10 @@ description: >
   The M'Cheyne Bible Reading Plan is a structured, year-long schedule designed in the 19th century by Robert Murray M'Cheyne, a Scottish pastor. 
   Its goal is to guide readers through most of the Bible in one year. The New Testament and Psalms are read twice.
 weight: 1
+layout: single-section
 ---
+
+# Robert Murray M'Cheyne Bible Reading Plan
 
 The M'Cheyne Bible Reading Plan is a structured, year-long schedule designed in the 19th century by Robert Murray M'Cheyne, a Scottish pastor. Its goal is to guide readers through most of the Bible in one yearâ The New Testament and Psalms are read twice.
 
