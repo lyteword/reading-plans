@@ -1,5 +1,5 @@
 ---
-title: "January M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
+title: "January - M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
 linkTitle: "January"
 description: >
   Stay consistent with your faith using the M'Cheyne Bible reading plan for the month of January.

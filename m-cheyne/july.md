@@ -1,5 +1,5 @@
 ---
-title: "July M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
+title: "July - M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
 linkTitle: "July"
 description: >
   Stay consistent with your faith using the M'Cheyne Bible reading plan for the month of July.

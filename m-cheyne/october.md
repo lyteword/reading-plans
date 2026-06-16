@@ -1,5 +1,5 @@
 ---
-title: "October M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
+title: "October - M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
 linkTitle: "October"
 description: >
   Stay consistent with your faith using the M'Cheyne Bible reading plan for the month of October.

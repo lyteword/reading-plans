@@ -1,5 +1,5 @@
 ---
-title: "September M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
+title: "September - M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
 linkTitle: "September"
 description: >
   Stay consistent with your faith using the M'Cheyne Bible reading plan for the month of September.

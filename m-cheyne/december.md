@@ -1,5 +1,5 @@
 ---
-title: "December M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
+title: "December - M'Cheyne Bible Reading Plan | Daily Scripture Schedule"
 linkTitle: "December"
 description: >
   Stay consistent with your faith using the M'Cheyne Bible reading plan for the month of December.
