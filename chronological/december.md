@@ -6,7 +6,9 @@ description: >
 weight: 12
 ---
 
-# December Reading Plan
+# December
+
+The final month covers the crucifixion and resurrection of Jesus, the birth of the early church in Acts, and the letters of Paul and James.
 
 | Day | Readings |
 | --- | --- |

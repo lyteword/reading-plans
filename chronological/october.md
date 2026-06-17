@@ -6,7 +6,9 @@ description: >
 weight: 10
 ---
 
-# October Reading Plan
+# October
+
+This month focuses on the poetic and prayerful wisdom of the Psalms and introduces the life and ministry of Jesus in the Gospels.
 
 | Day | Readings |
 | --- | --- |

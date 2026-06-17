@@ -6,7 +6,9 @@ description: >
 weight: 1
 ---
 
-# January Reading Plan
+# January
+
+This month covers the early history of humanity in Genesis and the wisdom of Job.
 
 | Day | Readings |
 | --- | --- |

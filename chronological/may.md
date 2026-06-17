@@ -6,7 +6,9 @@ description: >
 weight: 5
 ---
 
-# May Reading Plan
+# May
+
+Reading continues with King David, King Solomon, and the wisdom literature of Song of Solomon, Proverbs, and Ecclesiastes.
 
 | Day | Readings |
 | --- | --- |

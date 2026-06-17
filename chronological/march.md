@@ -6,7 +6,9 @@ description: >
 weight: 3
 ---
 
-# March Reading Plan
+# March
+
+This month focuses on the remaining journeys of the Israelites in Numbers, the final instructions of Moses in Deuteronomy, and the conquest of Canaan in Joshua.
 
 | Day | Readings |
 | --- | --- |

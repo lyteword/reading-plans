@@ -6,7 +6,9 @@ description: >
 weight: 2
 ---
 
-# February Reading Plan
+# February
+
+The reading plan continues through the end of Genesis, the exodus from Egypt, and the laws given in Leviticus and Numbers.
 
 | Day | Readings |
 | --- | --- |

@@ -6,7 +6,9 @@ description: >
 weight: 4
 ---
 
-# April Reading Plan
+# April
+
+This month's reading covers the end of Joshua, the period of the Judges, Ruth, and the early reign of King Saul and King David.
 
 | Day | Readings |
 | --- | --- |

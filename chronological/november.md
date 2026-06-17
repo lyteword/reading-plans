@@ -6,7 +6,9 @@ description: >
 weight: 11
 ---
 
-# November Reading Plan
+# November
+
+Reading continues with the teachings, miracles, and parables of Jesus as recorded in Matthew, Mark, Luke, and John.
 
 | Day | Readings |
 | --- | --- |

@@ -6,7 +6,9 @@ description: >
 weight: 7
 ---
 
-# July Reading Plan
+# July
+
+This month's reading covers the prophecies of Isaiah, the fall of the Northern Kingdom, and the early warnings of Jeremiah.
 
 | Day | Readings |
 | --- | --- |

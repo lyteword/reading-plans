@@ -6,7 +6,9 @@ description: >
 weight: 6
 ---
 
-# June Reading Plan
+# June
+
+This month focuses on the divided kingdom of Israel and Judah, the ministry of Elijah and Elisha, and early prophetic books including Joel, Jonah, Amos, Hosea, and Isaiah.
 
 | Day | Readings |
 | --- | --- |

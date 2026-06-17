@@ -6,7 +6,9 @@ description: >
 weight: 8
 ---
 
-# August Reading Plan
+# August
+
+Reading continues through the judgments and warnings of Jeremiah, the grief of Lamentations, and the visions of Ezekiel and Daniel.
 
 | Day | Readings |
 | --- | --- |

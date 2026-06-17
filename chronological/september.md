@@ -6,7 +6,9 @@ description: >
 weight: 9
 ---
 
-# September Reading Plan
+# September
+
+This month concludes the Old Testament, focusing on the return from exile in Ezra and Nehemiah, the book of Esther, and the final prophecies of Haggai, Zechariah, and Malachi.
 
 | Day | Readings |
 | --- | --- |
