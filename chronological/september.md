@@ -22,7 +22,7 @@ This month concludes the Old Testament, focusing on the return from exile in Ezr
 | 8 | Ezekiel 40-42 |
 | 9 | Ezekiel 43-45 |
 | 10 | Ezekiel 46-48 |
-| 11 | 2 Chronicles 36:22-23 Ezra 1-2 |
+| 11 | 2-Chronicles 36:22-23 Ezra 1-2 |
 | 12 | Ezra 3-4 |
 | 13 | Haggai 1-2 |
 | 14 | Zechariah 1-4 |

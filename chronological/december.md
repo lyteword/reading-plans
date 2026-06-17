@@ -28,13 +28,13 @@ The final month covers the crucifixion and resurrection of Jesus, the birth of t
 | 14 | Acts 15-16 |
 | 15 | Galatians 1-6 |
 | 16 | Acts 17-18:18 |
-| 17 | 1 Thessalonians 1-5 |
-| 18 | 2 Thessalonians 1-3 |
+| 17 | 1-Thessalonians 1-5 |
+| 18 | 2-Thessalonians 1-3 |
 | 19 | Acts 18:19-19:41 |
-| 20 | 1 Corinthians 1-8 |
-| 21 | 1 Corinthians 9-16 |
-| 22 | 2 Corinthians 1-7 |
-| 23 | 2 Corinthians 8-13 |
+| 20 | 1-Corinthians 1-8 |
+| 21 | 1-Corinthians 9-16 |
+| 22 | 2-Corinthians 1-7 |
+| 23 | 2-Corinthians 8-13 |
 | 24 | Romans 1-4 |
 | 25 | Romans 5-8 |
 | 26 | Romans 9-11 |
