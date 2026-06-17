@@ -1,16 +1,34 @@
----
-title: "April - Read the Chronological Bible Plan | Daily Scripture Schedule"
-linkTitle: "April"
-description: >
-  To be completed
-weight: 1
----
+# April Reading Plan
 
-# April
-
-In the month of April, the one year plan guides you through ...
-
-| Day | Family Morning | Family Evening | Private Morning | Private Evening |
-|---|---|---|---|---|
-| 1 | n | n | n | n |
-
+| Day | Readings |
+| --- | --- |
+| 1 | Joshua 19-21 |
+| 2 | Joshua 22-24 |
+| 3 | Judges 1-2 |
+| 4 | Judges 3-5 |
+| 5 | Judges 6-7 |
+| 6 | Judges 8-9 |
+| 7 | Judges 10-12 |
+| 8 | Judges 13-15 |
+| 9 | Judges 16-18 |
+| 10 | Judges 19-21 |
+| 11 | Ruth 1-4 |
+| 12 | 1 Samuel 1-3 |
+| 13 | 1 Samuel 4-7 |
+| 14 | 1 Samuel 8-10 |
+| 15 | 1 Samuel 11-13 |
+| 16 | 1 Samuel 14-15 |
+| 17 | 1 Samuel 16-17 |
+| 18 | 1 Samuel 18-19Psalm 59 |
+| 19 | 1 Samuel 20-21Psalm 34 |
+| 20 | 1 Samuel 22-23Psalm 52Psalm 142 |
+| 21 | 1 Samuel 24Psalm 57 |
+| 22 | 1 Samuel 25-26 |
+| 23 | 1 Samuel 27-29 |
+| 24 | 1 Samuel 30-311 Chronicles 10 |
+| 25 | 2 Samuel 1-2 |
+| 26 | 2 Samuel 3-4 |
+| 27 | 2 Samuel 51 Chronicles 11-12 |
+| 28 | 2 Samuel 61 Chronicles 13-16Psalm 96 |
+| 29 | 2 Samuel 71 Chronicles 17Psalm 89 |
+| 30 | 2 Samuel 8-91 Chronicles 18 |

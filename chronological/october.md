@@ -1,16 +1,35 @@
----
-title: "October - Read the Chronological Bible Plan | Daily Scripture Schedule"
-linkTitle: "October"
-description: >
-  To be completed
-weight: 1
----
+# October Reading Plan
 
-# October
-
-In the month of October, the one year plan guides you through ...
-
-| Day | Family Morning | Family Evening | Private Morning | Private Evening |
-|---|---|---|---|---|
-| 1 | n | n | n | n |
-
+| Day | Readings |
+| --- | --- |
+| 1 | Psalm 1-9 |
+| 2 | Psalm 10-17 |
+| 3 | Psalm 19-24 |
+| 4 | Psalm 25-31 |
+| 5 | Psalm 32-37 |
+| 6 | Psalm 38-44 |
+| 7 | Psalm 45-50 |
+| 8 | Psalm 53-60 |
+| 9 | Psalm 61-68 |
+| 10 | Psalm 69-72 |
+| 11 | Psalm 73-77 |
+| 12 | Psalm 78-83 |
+| 13 | Psalm 84-89 |
+| 14 | Psalm 90-99 |
+| 15 | Psalm 100-106 |
+| 16 | Psalm 107-112 |
+| 17 | Psalm 113-118 |
+| 18 | Psalm 119:1-88 |
+| 19 | Psalm 119:89-176 |
+| 20 | Psalm 120-134 |
+| 21 | Psalm 135-142 |
+| 22 | Psalm 143-150 |
+| 23 | Luke 1 |
+| 24 | Matthew 1Luke 2:1-38 |
+| 25 | Matthew 2Luke 2:39-52 |
+| 26 | Matthew 3Mark 1:1-11Luke 3 |
+| 27 | Matthew 4:1-11Mark 1:12-13Luke 4:1-13 |
+| 28 | John 1 |
+| 29 | John 2-3 |
+| 30 | John 4 |
+| 31 | Matthew 4:12-25Mark 1:14-45Luke 4:14-44 |
