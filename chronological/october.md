@@ -25,11 +25,11 @@
 | 21 | Psalm 135-142 |
 | 22 | Psalm 143-150 |
 | 23 | Luke 1 |
-| 24 | Matthew 1Luke 2:1-38 |
-| 25 | Matthew 2Luke 2:39-52 |
-| 26 | Matthew 3Mark 1:1-11Luke 3 |
-| 27 | Matthew 4:1-11Mark 1:12-13Luke 4:1-13 |
+| 24 | Matthew 1 Luke 2:1-38 |
+| 25 | Matthew 2 Luke 2:39-52 |
+| 26 | Matthew 3 Mark 1:1-11 Luke 3 |
+| 27 | Matthew 4:1-11 Mark 1:12-13 Luke 4:1-13 |
 | 28 | John 1 |
 | 29 | John 2-3 |
 | 30 | John 4 |
-| 31 | Matthew 4:12-25Mark 1:14-45Luke 4:14-44 |
+| 31 | Matthew 4:12-25 Mark 1:14-45 Luke 4:14-44 |

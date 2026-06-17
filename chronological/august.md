@@ -2,7 +2,7 @@
 
 | Day | Readings |
 | --- | --- |
-| 1 | 2 Kings 242 Chronicles 36:1-8Jeremiah 22 |
+| 1 | 2 Kings 24 2 Chronicles 36:1-8 Jeremiah 22 |
 | 2 | Jeremiah 25-26 |
 | 3 | Jeremiah 35-36 |
 | 4 | Jeremiah 45-48 |
@@ -12,14 +12,14 @@
 | 8 | Jeremiah 27-29 |
 | 9 | Jeremiah 30-31 |
 | 10 | Jeremiah 32-33 |
-| 11 | Jeremiah 342 Kings 25:1-22 Chronicles 36:13-16 |
+| 11 | Jeremiah 34 2 Kings 25:1-2 2 Chronicles 36:13-16 |
 | 12 | Jeremiah 37-38 |
-| 13 | Jeremiah 392 Kings 25:3-212 Chronicles 36:17-21 |
+| 13 | Jeremiah 39 2 Kings 25:3-21 2 Chronicles 36:17-21 |
 | 14 | Jeremiah 40-42 |
 | 15 | Jeremiah 43-44 |
 | 16 | Lamentations 1-2 |
 | 17 | Lamentations 3-5 |
-| 18 | ObadiahPsalm 137 |
+| 18 | Obadiah Psalm 137 |
 | 19 | Ezekiel 1-4 |
 | 20 | Ezekiel 5-8 |
 | 21 | Ezekiel 9-12 |

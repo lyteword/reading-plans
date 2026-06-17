@@ -2,11 +2,11 @@
 
 | Day | Readings |
 | --- | --- |
-| 1 | Matthew 26:1-46Mark 14:1-42Luke 22:1-46 |
-| 2 | Matthew 26:47-75Mark 14:43-72Luke 22:47-71John 18:1-27 |
-| 3 | Matthew 27:1-31Mark 15:1-20Luke 23:1-25John 18:28-19:16 |
-| 4 | Matthew 27:32-66Mark 15:21-47Luke 23:26-56John 19:17-42 |
-| 5 | Matthew 28Mark 16Luke 24John 20-21 |
+| 1 | Matthew 26:1-46 Mark 14:1-42 Luke 22:1-46 |
+| 2 | Matthew 26:47-75 Mark 14:43-72 Luke 22:47-71 John 18:1-27 |
+| 3 | Matthew 27:1-31 Mark 15:1-20 Luke 23:1-25 John 18:28-19:16 |
+| 4 | Matthew 27:32-66 Mark 15:21-47 Luke 23:26-56 John 19:17-42 |
+| 5 | Matthew 28 Mark 16 Luke 24 John 20-21 |
 | 6 | Acts 1-2 |
 | 7 | Acts 3-4 |
 | 8 | Acts 5-6 |

@@ -19,16 +19,16 @@
 | 15 | 1 Samuel 11-13 |
 | 16 | 1 Samuel 14-15 |
 | 17 | 1 Samuel 16-17 |
-| 18 | 1 Samuel 18-19Psalm 59 |
-| 19 | 1 Samuel 20-21Psalm 34 |
-| 20 | 1 Samuel 22-23Psalm 52Psalm 142 |
-| 21 | 1 Samuel 24Psalm 57 |
+| 18 | 1 Samuel 18-19 Psalm 59 |
+| 19 | 1 Samuel 20-21 Psalm 34 |
+| 20 | 1 Samuel 22-23 Psalm 52 Psalm 142 |
+| 21 | 1 Samuel 24 Psalm 57 |
 | 22 | 1 Samuel 25-26 |
 | 23 | 1 Samuel 27-29 |
-| 24 | 1 Samuel 30-311 Chronicles 10 |
+| 24 | 1 Samuel 30-31 1 Chronicles 10 |
 | 25 | 2 Samuel 1-2 |
 | 26 | 2 Samuel 3-4 |
-| 27 | 2 Samuel 51 Chronicles 11-12 |
-| 28 | 2 Samuel 61 Chronicles 13-16Psalm 96 |
-| 29 | 2 Samuel 71 Chronicles 17Psalm 89 |
-| 30 | 2 Samuel 8-91 Chronicles 18 |
+| 27 | 2 Samuel 5 1 Chronicles 11-12 |
+| 28 | 2 Samuel 6 1 Chronicles 13-16 Psalm 96 |
+| 29 | 2 Samuel 7 1 Chronicles 17 Psalm 89 |
+| 30 | 2 Samuel 8-9 1 Chronicles 18 |
