@@ -1,3 +1,11 @@
+---
+title: "April - Chronological Bible Reading Plan | Daily Scriptures"
+linkTitle: "April"
+description: >
+  Read through the Bible in historical order for the month of April with this chronological Bible reading plan. Perfect for daily scripture time.
+weight: 4
+---
+
 # April Reading Plan
 
 | Day | Readings |

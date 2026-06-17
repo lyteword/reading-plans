@@ -1,3 +1,11 @@
+---
+title: "December - Chronological Bible Reading Plan | Daily Scriptures"
+linkTitle: "December"
+description: >
+  Read through the Bible in historical order for the month of December with this chronological Bible reading plan. Perfect for daily scripture time.
+weight: 12
+---
+
 # December Reading Plan
 
 | Day | Readings |

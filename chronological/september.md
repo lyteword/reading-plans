@@ -1,3 +1,11 @@
+---
+title: "September - Chronological Bible Reading Plan | Daily Scriptures"
+linkTitle: "September"
+description: >
+  Read through the Bible in historical order for the month of September with this chronological Bible reading plan. Perfect for daily scripture time.
+weight: 9
+---
+
 # September Reading Plan
 
 | Day | Readings |

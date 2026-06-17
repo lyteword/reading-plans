@@ -1,3 +1,11 @@
+---
+title: "August - Chronological Bible Reading Plan | Daily Scriptures"
+linkTitle: "August"
+description: >
+  Read through the Bible in historical order for the month of August with this chronological Bible reading plan. Perfect for daily scripture time.
+weight: 8
+---
+
 # August Reading Plan
 
 | Day | Readings |

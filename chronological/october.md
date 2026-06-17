@@ -1,3 +1,11 @@
+---
+title: "October - Chronological Bible Reading Plan | Daily Scriptures"
+linkTitle: "October"
+description: >
+  Read through the Bible in historical order for the month of October with this chronological Bible reading plan. Perfect for daily scripture time.
+weight: 10
+---
+
 # October Reading Plan
 
 | Day | Readings |

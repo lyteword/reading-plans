@@ -1,3 +1,11 @@
+---
+title: "February - Chronological Bible Reading Plan | Daily Scriptures"
+linkTitle: "February"
+description: >
+  Read through the Bible in historical order for the month of February with this chronological Bible reading plan. Perfect for daily scripture time.
+weight: 2
+---
+
 # February Reading Plan
 
 | Day | Readings |

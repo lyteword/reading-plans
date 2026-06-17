@@ -1,3 +1,11 @@
+---
+title: "November - Chronological Bible Reading Plan | Daily Scriptures"
+linkTitle: "November"
+description: >
+  Read through the Bible in historical order for the month of November with this chronological Bible reading plan. Perfect for daily scripture time.
+weight: 11
+---
+
 # November Reading Plan
 
 | Day | Readings |

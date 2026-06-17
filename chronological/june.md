@@ -1,3 +1,11 @@
+---
+title: "June - Chronological Bible Reading Plan | Daily Scriptures"
+linkTitle: "June"
+description: >
+  Read through the Bible in historical order for the month of June with this chronological Bible reading plan. Perfect for daily scripture time.
+weight: 6
+---
+
 # June Reading Plan
 
 | Day | Readings |

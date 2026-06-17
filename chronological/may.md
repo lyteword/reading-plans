@@ -1,3 +1,11 @@
+---
+title: "May - Chronological Bible Reading Plan | Daily Scriptures"
+linkTitle: "May"
+description: >
+  Read through the Bible in historical order for the month of May with this chronological Bible reading plan. Perfect for daily scripture time.
+weight: 5
+---
+
 # May Reading Plan
 
 | Day | Readings |
